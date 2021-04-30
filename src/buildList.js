@@ -9,7 +9,7 @@ const hardhat = require("./tokens/hardhat.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default List",
+    name: "Alchemist Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -18,7 +18,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    keywords: ["alchemist", "default"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...hardhat]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
