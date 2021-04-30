@@ -1,13 +1,13 @@
 {
   "name": "Alchemist Default List",
-  "timestamp": "2021-04-30T18:27:10.859Z",
+  "timestamp": "2021-04-30T18:54:49.478Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://assets.coingecko.com/coins/images/14655/large/79158662.png?1617589045",
   "keywords": [
     "alchemist",
     "default"
