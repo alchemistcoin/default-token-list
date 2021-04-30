@@ -22,6 +22,7 @@ module.exports = function buildList() {
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...hardhat]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
+        if (t1.symbol.toLowerCase() === "mist") return -1;
         if (t1.chainId === t2.chainId) {
           return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
         }
