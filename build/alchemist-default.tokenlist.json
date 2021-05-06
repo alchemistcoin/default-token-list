@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 1337,
-      "address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+      "address": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
       "name": "Alchemist",
       "symbol": "MIST",
       "decimals": 18,
