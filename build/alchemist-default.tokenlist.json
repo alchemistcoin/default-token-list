@@ -1,6 +1,6 @@
 {
   "name": "Alchemist Default List",
-  "timestamp": "2021-05-06T20:30:07.426Z",
+  "timestamp": "2021-05-16T09:22:05.638Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,7 +14,7 @@
   ],
   "tokens": [
     {
-      "chainId": 1337,
+      "chainId": 1,
       "address": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
       "name": "Alchemist",
       "symbol": "MIST",
@@ -172,14 +172,6 @@
       "symbol": "MANA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745"
-    },
-    {
-      "chainId": 1,
-      "address": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
-      "name": "Alchemist",
-      "symbol": "MIST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045"
     },
     {
       "name": "Maker",
@@ -436,6 +428,14 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+    },
+    {
+      "chainId": 1337,
+      "address": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
+      "name": "Alchemist",
+      "symbol": "MIST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045"
     },
     {
       "chainId": 1337,
